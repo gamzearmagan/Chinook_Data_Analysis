@@ -68,6 +68,8 @@ The repository contains two advanced SQL queries that perform the following:
 
 ### Looker Report
 - Chinook_Report table transvered to LOOKER from BigQuery to prepation of visual reports for further analysis.
+- https://lookerstudio.google.com/s/gJz1tesGMy0
+  
   ![image](https://github.com/user-attachments/assets/ec0fbf4d-7a0f-4f32-b152-058486eab50f)
   ![image](https://github.com/user-attachments/assets/a37140f5-c2df-4bf3-943a-721f7f9b2ad5)
   ![image](https://github.com/user-attachments/assets/2ce19572-300e-4fde-b257-6590c45fc27e)
